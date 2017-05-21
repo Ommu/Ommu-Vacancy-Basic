@@ -1,4 +1,16 @@
 <?php
+/**
+ * CareerModule
+ * version: 0.0.1
+ *
+ * @author Putra Sudaryanto <putra@sudaryanto.id>
+ * @copyright Copyright (c) 2016 Ommu Platform (opensource.ommu.co)
+ * @link https://github.com/ommu/mod-vacancy-basic
+ * @contact (+62)856-299-4114
+ *
+ *----------------------------------------------------------------------------------------------------------
+ */
+
 
 class CareerModule extends CWebModule
 {
