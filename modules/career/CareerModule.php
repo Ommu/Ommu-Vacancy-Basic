@@ -5,7 +5,7 @@
  *
  * @author Putra Sudaryanto <putra@sudaryanto.id>
  * @copyright Copyright (c) 2016 Ommu Platform (opensource.ommu.co)
- * @link https://github.com/ommu/mod-vacancy-basic
+ * @link https://github.com/ommu/ommu-career
  * @contact (+62)856-299-4114
  *
  *----------------------------------------------------------------------------------------------------------
