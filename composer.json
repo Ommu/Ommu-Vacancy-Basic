@@ -1,6 +1,6 @@
 {
 	"name": "ommu/career",
-	"description": "Career Module for Ommu Platform",
+	"description": "Career Module from Ommu Platform",
 	"keywords": [
 		"module",
 		"career",
@@ -10,17 +10,17 @@
 		"platform",
 		"ommu platform"
 	],
-	"homepage": "https://github.com/ommu/ommu-career",
+	"homepage": "https://github.com/ommu/mod-career",
 	"type": "ommu-module",
 	"license": "Apache-2.0",
 	"support": {
-		"issues": "https://github.com/ommu/ommu-career/issues",
-		"wiki": "https://github.com/ommu/ommu-career/wiki",
-		"source": "https://github.com/ommu/ommu-career"
+		"issues": "https://github.com/ommu/mod-career/issues",
+		"wiki": "https://github.com/ommu/mod-career/wiki",
+		"source": "https://github.com/ommu/mod-career"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ommu/ommu-career.git"
+		"url": "https://github.com/ommu/mod-career.git"
 	},
 	"authors": [
 		{
